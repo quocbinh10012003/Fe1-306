@@ -1,0 +1,360 @@
+/* Images  */
+header.top-header{
+    background: url(../images/TopHeader-1.jpg);
+    background-size: cover;
+    height: 671px;
+    width: 100%;
+}
+/* Task - Do dai logo*/
+.navbar-brand{
+    height: 39px;
+    width: 226px;
+    padding: 24px 0px 23px;
+    margin-left: 110px;
+}
+/* Task */
+.navbar-expand-lg{
+    height: 91px;
+    width: 1502.4px;
+}
+/* Canh giua khoang trong */
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.nav-item1{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 7px;
+    color: var(--bs-nav-link-color);
+}
+/* Boder Top */
+ .navbar-nav .nav-link.active, .navbar-nav .show>.nav-link, 
+.nav-link:focus, .nav-link:hover {
+    border-top: 3px solid #c4eeec;
+}
+/* Ke line duoi taskbar */
+.navbar-line {
+    border-bottom: 1px solid rgba(255, 255, 255, .25);
+}
+/* font Explore */
+.hz {
+font-size: 26px;
+line-height: 45px;
+font-family: oswald,sans-serif;
+font-weight: 500;
+margin-bottom: 27px;
+margin-left: 110px;
+}
+/* position all right, body2 */
+.ps-r,
+.bodyrightall{
+    position: relative;
+
+}
+/* position img2 bdr */
+.bdr2-img{
+    position: absolute;
+    top: 63px;
+    left: 318px;
+    max-width: 365px;
+    height: 450px;
+}
+/* position img1 bdr */
+.bdr1-img {
+    position: absolute;
+    left: 56px;
+    max-width: 365px;
+    height: 450px;
+}
+/* position img body2 */
+.img-ps {
+    position: absolute;
+    bottom: -43px;
+    width: 100%;
+    left: 30%;
+    height:288px;
+    width:370px;
+}
+/* background1 */
+.body1{
+    background: url(../images/Body1.webp);
+    margin-top: 40px;
+    background-size: cover;
+    margin-bottom: 0;
+    padding-bottom: 4%;
+    padding-top: 5.1%;
+    width: 100%;
+}
+/* background2 */
+.body2{
+    background: url(../images/Body2.webp);
+    margin-top: 40px;
+    background-size: cover;
+    margin-bottom: 0;
+    padding-bottom: 4%;
+    padding-top: 5.1%;
+    width: 100%;
+}
+/* background3 */
+.body3{
+    background: url(../images/bgd3.webp);
+    margin-top: 40px;
+    background-size: cover;
+    margin-bottom: 0;
+    padding-bottom: 4%;
+    padding-top: 5.1%;
+    width: 1385px;
+    margin-left: 122px;
+}
+/* background4 */
+.body4{
+    background: url(../images/Body4.webp);
+    margin-top: 40px;
+    background-size: cover;
+    margin-bottom: 0;
+    padding-bottom: 4%;
+    padding-top: 5.1%;
+    width: 1519px;
+    height: 674px;
+    margin-left: 0px;
+}
+/* font chu */
+.custom{
+    color: #737576;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    background: #fff;
+    letter-spacing: normal;
+    font-style: normal;
+    margin-left: 110px;
+}
+
+
+/* The p Table1 */
+.custom-bd2r p {
+    padding: 0 38px;
+    font-size: 24px;
+    border-left: 3px solid #000;
+}
+/* Table 1*/
+.custom-bd2r {
+    background: #c4eeec;
+    width: 1077px;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 149px;
+}
+/* Table2 */
+.custom-bd2 {
+    background: #c4eeec;
+    width: 1304px;
+    height: 418px;
+    display: flex;
+    justify-content: center;
+    padding: 149px;
+    margin-left: -121px;
+    /* position: absolute; */
+}
+.content2{
+    margin-top: 55px;
+    margin-left: 186px;
+    padding-right: 147px;
+}
+.textsmall{
+    color: #737576;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    letter-spacing: normal;
+    font-style: normal;
+}
+.img-tbleft {
+    position: absolute;
+    width: 372px;
+    height: 510px;
+    bottom: 18px;
+    left: 5.5%;
+}
+.img-tbright {
+    position: absolute;
+    width: 372px;
+    height: 510px;
+    bottom: 18px;
+    left: 62%;
+}
+.img-tbmid1 {
+    position: absolute;
+    width: 372px;
+    height: 240px;
+    bottom: 288px;
+    left: 34%;
+}
+.img-tbmid2 {
+    position: absolute;
+    width: 372px;
+    height: 240px;
+    bottom: 18px;
+    left: 34%;
+}
+.linkfrimage-content a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: x-large;
+}
+.content-inimage{
+    color: #fff;
+}
+/* Positon text */
+.image-content{
+    position: absolute;
+    left: 110px;
+    bottom: 40px;
+}
+.image-content-right{
+    position: absolute;
+    left: 64%;
+    bottom: 40px;
+}
+.image-content-mid2{
+    position: absolute;
+    left: 36%;
+    bottom: 40px;
+}
+.image-content-mid1{
+    position: absolute;
+    left: 36%;
+    bottom: 305px;
+}
+/* Hover Text */
+.linkfrimage-content a:hover{
+    color: #c4eeec
+}
+.mod-menu .menu-list li a{
+    text-decoration: none;
+    color: #737576;
+}
+.content3{
+    padding-left: 170px;
+    padding-top: 70px;
+}
+.textsmall1{
+    color: #737576;
+    font-size: 13px;
+    line-height: 26px;
+    font-weight: 400;
+    letter-spacing: normal;
+    font-style: normal;
+    width: 480px;
+}
+.mod-menu{
+    padding-right: 174px;
+}
+.custom-bd3 {
+    background: #fff;
+    width: 870px;
+    height: 334px;
+    display: flex;
+    justify-content: center;
+    padding: 149px;
+    margin-left: 329px;
+    margin-top: 135px;
+    position: absolute;
+}
+.custom-bd3 p {
+    padding: 0 70px;
+    font: 20px/40px 'Oswald',sans-serif;
+    border-left: 3px solid #000;
+    position: absolute;
+    margin-left: 95px;
+    margin-top: -87px;
+}
+.img-setup a img{
+    width: 370px;
+    height: 264px;
+}
+.bd5-container{
+    padding-left: 88px;
+}
+.content-pages{
+    margin-top: 80px;
+    font-family: oswald,sans-serif;
+    margin-bottom: 37px;
+}
+.content-pages h2{
+    font-size: 23px;
+    font-weight: 600;
+}
+.content-link a{
+    text-decoration: none;
+    color: #292f35;
+    letter-spacing: -1px;
+    font-weight: bold;
+}
+.content-link a:hover{
+    color: #737576;
+}
+.content-info{
+    margin-top: 20px;
+    margin-bottom: -3px;;
+}
+/* Hover img */
+.img-setup a img:hover{
+    opacity: 0.8;
+}
+/* Footer */
+.footer-1 {
+    background: #1e2227;
+    height: 418px;
+    display: flex;
+    justify-content: center;
+    padding: 149px;
+    margin-top: 170px;
+}
+.images-footer{
+    position: absolute;
+    top: -50px;
+    left: 199px;
+}
+.footerallright{
+    position: absolute;
+    left: 795px;
+    top: 90px;
+}
+.tiltelfooterright{
+    color: #fff;
+}
+.textfooterright{
+    color: #c4eeec;
+    font-weight: bold;
+}
+.footer-line{
+    background: #191d20;
+    height: 60px;
+}
+.allfooterline{
+    margin-left: 88px;
+    padding: 11px;
+}
+/* Position for forms */
+.forms{
+    position: absolute;
+    top: 150px;
+    width: 100%;
+    border-bottom: 1px solid rgba(255,255,255,.3);
+}
+/* Style for form input */
+.forms input{
+    background: #1e2227;
+    border: none;
+}
+
+
